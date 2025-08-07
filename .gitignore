@@ -1,3 +1,5 @@
 # Ignore these files
 
 datasets/
+processed_data/
+split_data/
