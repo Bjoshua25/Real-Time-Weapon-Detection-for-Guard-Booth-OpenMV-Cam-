@@ -4,4 +4,4 @@ datasets/
 processed_data/
 split_data/
 models/dataset_rgb_224_binary_balanced.npz
-
+models/dataset_rgb_96_binary_balanced.npz
