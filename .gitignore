@@ -1,6 +1,6 @@
 # Ignore these files
 
-datasets/
+# datasets/
 processed_data/
 split_data/
 models/dataset_rgb_224_binary_balanced.npz
